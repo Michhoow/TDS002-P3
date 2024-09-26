@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.AssemblyInfo.cs
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\bin\Debug\net8.0\F a C.exe
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\bin\Debug\net8.0\F a C.deps.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\bin\Debug\net8.0\F a C.runtimeconfig.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\bin\Debug\net8.0\F a C.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\bin\Debug\net8.0\F a C.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\refint\F a C.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\F a C.genruntimeconfig.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\F a C\obj\Debug\net8.0\ref\F a C.dll

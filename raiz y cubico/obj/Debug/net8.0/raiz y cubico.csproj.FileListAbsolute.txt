@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.AssemblyInfo.cs
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\bin\Debug\net8.0\raiz y cubico.exe
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\bin\Debug\net8.0\raiz y cubico.deps.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\bin\Debug\net8.0\raiz y cubico.runtimeconfig.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\bin\Debug\net8.0\raiz y cubico.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\bin\Debug\net8.0\raiz y cubico.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\refint\raiz y cubico.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.genruntimeconfig.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\ref\raiz y cubico.dll

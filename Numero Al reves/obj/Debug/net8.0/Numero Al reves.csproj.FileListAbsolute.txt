@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\bin\Debug\net8.0\Numero Al reves.exe
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\bin\Debug\net8.0\Numero Al reves.deps.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\bin\Debug\net8.0\Numero Al reves.runtimeconfig.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\bin\Debug\net8.0\Numero Al reves.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\bin\Debug\net8.0\Numero Al reves.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.AssemblyInfo.cs
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\refint\Numero Al reves.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\Numero Al reves.genruntimeconfig.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Numero Al reves\obj\Debug\net8.0\ref\Numero Al reves.dll

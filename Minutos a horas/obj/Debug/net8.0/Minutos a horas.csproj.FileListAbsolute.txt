@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.AssemblyInfo.cs
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\bin\Debug\net8.0\Minutos a horas.exe
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\bin\Debug\net8.0\Minutos a horas.deps.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\bin\Debug\net8.0\Minutos a horas.runtimeconfig.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\bin\Debug\net8.0\Minutos a horas.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\bin\Debug\net8.0\Minutos a horas.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\refint\Minutos a horas.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.genruntimeconfig.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\ref\Minutos a horas.dll
