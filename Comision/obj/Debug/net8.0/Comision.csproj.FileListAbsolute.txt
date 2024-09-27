@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Comision\obj\Debug
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Comision\obj\Debug\net8.0\Comision.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Comision\obj\Debug\net8.0\Comision.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Comision\obj\Debug\net8.0\ref\Comision.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Comision\obj\Debug\net8.0\Comision.sourcelink.json

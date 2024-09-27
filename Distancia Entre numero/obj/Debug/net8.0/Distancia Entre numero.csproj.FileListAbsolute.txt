@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Distancia Entre nu
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Distancia Entre numero\obj\Debug\net8.0\Distancia Entre numero.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Distancia Entre numero\obj\Debug\net8.0\Distancia Entre numero.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Distancia Entre numero\obj\Debug\net8.0\ref\Distancia Entre numero.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Distancia Entre numero\obj\Debug\net8.0\Distancia Entre numero.sourcelink.json

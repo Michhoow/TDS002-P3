@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Descuento\obj\Debu
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Descuento\obj\Debug\net8.0\Descuento.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Descuento\obj\Debug\net8.0\Descuento.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Descuento\obj\Debug\net8.0\ref\Descuento.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Descuento\obj\Debug\net8.0\Descuento.sourcelink.json

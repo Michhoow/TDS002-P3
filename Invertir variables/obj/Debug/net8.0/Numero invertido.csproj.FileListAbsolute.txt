@@ -26,3 +26,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Invertir variables
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Invertir variables\obj\Debug\net8.0\Numero invertido.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Invertir variables\obj\Debug\net8.0\Numero invertido.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Invertir variables\obj\Debug\net8.0\ref\Numero invertido.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Invertir variables\obj\Debug\net8.0\Numero invertido.sourcelink.json

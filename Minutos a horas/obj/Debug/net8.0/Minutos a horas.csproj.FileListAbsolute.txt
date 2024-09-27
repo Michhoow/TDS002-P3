@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\ob
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\ref\Minutos a horas.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\Minutos a horas\obj\Debug\net8.0\Minutos a horas.sourcelink.json

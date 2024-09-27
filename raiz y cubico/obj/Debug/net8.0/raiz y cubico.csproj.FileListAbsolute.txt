@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\ref\raiz y cubico.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\raiz y cubico\obj\Debug\net8.0\raiz y cubico.sourcelink.json

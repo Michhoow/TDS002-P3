@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\promedio de 3\obj\
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\promedio de 3\obj\Debug\net8.0\promedio de 3.pdb
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\promedio de 3\obj\Debug\net8.0\promedio de 3.genruntimeconfig.cache
 C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\promedio de 3\obj\Debug\net8.0\ref\promedio de 3.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 2 TDS002\promedio de 3\obj\Debug\net8.0\promedio de 3.sourcelink.json
